@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="menu_create_task">Create Task</string>
+    <string name="menu_clear_task">Clear All</string>
+
+    <string name="label_task_description">Task Description</string>
+    <string name="button_create">Create</string>
+</resources>
